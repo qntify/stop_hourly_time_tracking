@@ -1,4 +1,4 @@
-# Stop manual time tracking Manifesto
+# :no_entry_sign: Stop manual time tracking Manifesto
 
 Agile took over Waterfall as a preferred software delivery methodology. There are even Agile Project Management tools out there. However, one thing seems to remain -- developers are still being asked to manually track time with a whole market of time tracking apps. Nobody likes to do it.
 
@@ -14,4 +14,4 @@ If you still have to -- use cycle time as your automatic timer.
 
 ## Support
 
-If this Manifesto resonates with you, please give it a star. Have something to add or improve? Collaboration is welcomed.
+If this Manifesto resonates with you, please [give it a :star:](https://github.com/qntify/stop-manual-time-tracking-manifesto). Have something to add or improve? [Collaboration](https://github.com/qntify/stop-manual-time-tracking-manifesto/issues) is welcomed.
