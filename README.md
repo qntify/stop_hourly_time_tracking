@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Stop manual time tracking Manifesto
 
-You can use the [editor on GitHub](https://github.com/quantify-ai/manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Agile took over Waterfall as a preferred software delivery methodology. There are even Agile Project Management tools out there. However, one thing seems to remain -- developers are still being asked to manually track time with a whole market of time tracking apps. Nobody likes to do it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The best time tracking app ever
 
-### Markdown
+The best time tracking app ever is ... the one that doesn't require manual time tracking at all. Today there is data everywhere accessible via APIs. Data with an actor and timestamp is pretty much a time record. Most likely there is already everything you need to compile a report.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Agile time tracking
 
-```markdown
-Syntax highlighted code block
+Fundamentally, in Agile you don't need to track time.
 
-# Header 1
-## Header 2
-### Header 3
+If you still have to -- use cycle time as your automatic timer.
 
-- Bulleted
-- List
+## Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quantify-ai/manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If this Manifesto resonates with you, please give it a star. Have something to add or improve? Collaboration is welcomed.
