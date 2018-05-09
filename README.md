@@ -12,6 +12,8 @@ Fundamentally, in Agile you don't need to track time.
 
 If you still have to -- use cycle time as your automatic timer.
 
+<img src="cycle-time.jpg" alt="cycle time" class="inline">
+
 ## Support
 
 If this Manifesto resonates with you, please [give it a :star:](https://github.com/qntify/stop-manual-time-tracking-manifesto). Have something to add or improve? [Collaboration](https://github.com/qntify/stop-manual-time-tracking-manifesto/issues) is welcomed.
